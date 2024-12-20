@@ -15,53 +15,6 @@ Desktop er terminal e jabo
 > - git config --list
 
 
-# Work with MY Repo 
-
-## Create a new repository:
-> - mkdir my-project
-> - cd my-project
-> - git init
-
-
-
-## Add a file:
-> - echo "Hello Git!" > readme.txt
-## Track the file:
-> - git add readme.txt
-## Commit your changes:
-> - git commit -m "Add readme file"
-
-
-## Common Git Commands
-Here are the basics you'll frequently use:
-
-## Check status:
-> - git status
-## View commit history:
-
-> - git log
-
-
-## Create a branch:
-> - git branch feature-branch
-## Switch to a branch:
-
-> - git checkout feature-branch
-## Merge branches:
-
-> - git checkout main
-> - git merge feature-branch
-
-
-
- 
-
-
-
-
-
-
-
 
 
 # Work with Remote Repo 
@@ -119,3 +72,63 @@ Onno joner repo te branch khule code update kore oi branch e push diye main bran
  eti mane holo ami main branch theke new_branch create kore switch korlam
 > -  git checkout main  : 
 eti mane holo ami amr branch theke main branch e switch korlam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Work with MY Repo 
+
+## Create a new repository:
+> - mkdir my-project
+> - cd my-project
+> - git init
+
+
+
+## Add a file:
+> - echo "Hello Git!" > readme.txt
+## Track the file:
+> - git add readme.txt
+## Commit your changes:
+> - git commit -m "Add readme file"
+
+
+## Common Git Commands
+Here are the basics you'll frequently use:
+
+## Check status:
+> - git status
+## View commit history:
+
+> - git log
+
+
+## Create a branch:
+> - git branch feature-branch
+## Switch to a branch:
+
+> - git checkout feature-branch
+## Merge branches:
+
+> - git checkout main
+> - git merge feature-branch
+
+
+
+ 
+
+
+
+
+
+
