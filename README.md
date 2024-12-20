@@ -24,6 +24,7 @@ Desktop er terminal e jabo
 
 # Create and switch to a new branch
 > - git checkout -b new-branch-name
+> - git checkout main or git checkout my_branch  : eti diye branch e switch kora jay main theke my branch e 
 
 # Make changes, then stage and commit
 > - git add .
