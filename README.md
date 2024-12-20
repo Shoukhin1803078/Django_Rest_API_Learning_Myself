@@ -20,9 +20,11 @@ Desktop er terminal e jabo
 > - code .
 
 
+# Create Branch way-1:
+> - git branch feature-branch
+> - git checkout my_branch 
 
-
-# Create and switch to a new branch
+# Create and switch to a new branch eksathe  way-2:
 > - git checkout -b new-branch-name
 > - git checkout main or git checkout my_branch  : eti diye branch e switch kora jay main theke my branch e 
 
