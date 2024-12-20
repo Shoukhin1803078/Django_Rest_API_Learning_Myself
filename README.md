@@ -6,6 +6,11 @@ Desktop er terminal e jabo
 
 
 
+# Configure Git
+> - git config --global user.name "Your Name"
+> - git config --global user.email "youremail@example.com"
+> - git config --list
+
 # Clone the repository
 > - git clone https://github.com/Shoukhin1803078/Django_Rest_API_Learning_Myself.git
 > - cd Django_Rest_API_Learning_Myself
